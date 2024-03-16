@@ -1,8 +1,8 @@
 <a href="https://ibb.co/pQNpmwN"><img src="https://i.ibb.co/xYwQ4gLw/cheemspc.jpg" alt="CORTANA-AI" border="0"></a>
-<h1 align="center">⭐CORTANA-AI⭐<br></h1>
+<h1 align="center">⭐CORTANA-AII⭐<br></h1>
 
 <p align="center"> 
-  I am "CORTANA-AI" a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  I am "CORTANA-AII" a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 </p>
 </br>
 
@@ -58,7 +58,7 @@
 
 
 
-<a href="https://heroku.com/deploy?template=https://github.com/Emmkash20/CORTANA-AI">
+<a href="https://heroku.com/deploy?template=https://github.com/Emmkash20/CORTANA-AII">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -103,7 +103,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```bash
 
-apt update
+apt I
 
 apt upgrade
 
@@ -125,7 +125,7 @@ pkg install yarn
 
 pkg install imagemagick -y
 
-git clone https://github.com/Emmkash20/CORTANA-AI
+git clone https://github.com/Emmkash20/CORTANA-AII
 
 cd CORTANA-AI
 
@@ -146,7 +146,7 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
 ```
 <br>
 <br>
- <h2 align="center"> 🦄Thanks to🦄
+ <h2 align="center"> Thanks to
 </h2>
 
 1. **𓆩 𝗘𝗠𝗠𝗞𝗔𝗦𝗛𓆪**
